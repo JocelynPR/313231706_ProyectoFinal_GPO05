@@ -1,0 +1,111 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd color3.png
+Ni 0.59
+Ks 1.00 1.00 1.00
+Ns 98.00
+newmtl phong3SG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 0.77 0.77 0.77
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 98.00
+newmtl phong4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.77 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd color3.png
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 1.91
+newmtl phong5SG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 0.78 0.78 0.78
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 98.00
+newmtl phong6SG
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 0.78 0.78 0.78
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 98.00
+newmtl phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd color3.png
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 98.00
+newmtl phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd color3.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pata.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 98.00
+newmtl phong17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl phong19SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd base.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

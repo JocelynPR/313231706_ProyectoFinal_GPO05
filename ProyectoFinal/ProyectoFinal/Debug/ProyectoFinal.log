@@ -1,0 +1,83 @@
+﻿  313231706_PROYECTOFINAL_GPO05.cpp
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(400,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(437,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(438,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(439,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(453,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(454,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(455,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(467,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(468,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(469,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(480,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(481,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(482,23): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1005,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1006,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1014,40): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1015,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1026,20): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1027,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1031,23): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1135,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1136,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1140,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1141,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1143,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\ProyectoFinal\313231706_PROYECTOFINAL_GPO05.cpp(1144,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  ProyectoFinal.vcxproj -> C:\Users\joce0\Documents\Visual Studio 2019\Practicas\PROYECTOFINAL2022-2- TEORIA - este\ProyectoFinal\Debug\ProyectoFinal.exe
